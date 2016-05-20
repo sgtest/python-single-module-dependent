@@ -1,3 +1,3 @@
 import mod
 
-print mod
+print(mod)
